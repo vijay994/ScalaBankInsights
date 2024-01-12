@@ -1,0 +1,19 @@
+Main Features
+
+1) age = [numeric]
+2) job = [categorical] ["admin", "blue-collar", "entrepreneur", "housemaid", "management", "retired", "self-employed", "services", "student", "technician", "unemployed", "unknown"]
+3) marital = [categorical] ["married", "divorced", "single", "unknown"]
+4) education = [categorical] [*****]
+5) default = [binary] ["yes" or "no"]
+*** 6) balance = [numeric]
+7) housing = [binary] ["yes" or "no"]
+*** 8) loan = [binary] ["yes" or "no"]
+9) contact = [categorical] ["telephone", "cellular", "unknown"]
+*** 10) day = [numeric]
+11) month = [categorical] [*]
+*** 12) day_of_week = [categorical] [*]
+* 13) duration = [numeric/binary] ["yes" or "no"]
+
+Output Feature
+
+14) y[Subscription] = [binary] ["yes" or "no"]
